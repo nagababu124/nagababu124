@@ -1,12 +1,33 @@
-- 👋 Hi, I’m Nagababu Kona
-- 👀 I’m interested in Data Science, Machine Learning and deep Learning 
-- 🌱 I’m currently Working in Tech Mahindra as a Software developer 
-- 📫 How to reach me ...
-  - ✒️ [Twitter](https://twitter.com/nagababu_98?t=kfh6ka1jkO5E0Lu5LCGuuQ&s=09)
-  - :office: [LinkedIn](https://www.linkedin.com/in/nagababu-kona/)
+# 👋 Hello World! I'm Nagababu Kona
 
-[![nagababu github stats](https://github-readme-stats.vercel.app/api?username=nagababu124&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/nagababu124?tab=repositories)
+## About Me
+💻 A passionate Software Engineer with a knack for turning lines of code into innovative solutions. I've journeyed through the tech landscape, leaving my mark at two incredible organizations—Tech Mahindra and IBM.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagababu124)](https://github.com/nagababu124?tab=repositories)
+## 🚀 Skills:
+- **Core Java:** Where precision meets performance, I excel in leveraging the power of Java for robust software development.
+- **Python:** From scripting to full-stack applications, Python is my versatile companion in the world of coding.
+- **SQL:** Mastering the language of databases, I ensure data is not just stored but transformed into valuable insights.
+- **Data Science:** Unleashing the potential of data, I specialize in utilizing cutting-edge techniques and tools to extract meaningful patterns and drive informed decisions.
 
-![Profile views](https://gpvc.arturio.dev/nagababu124)
+## 📊 Data Science Toolbox:
+- **Machine Learning:** Building models that learn and adapt.
+- **Data Analysis:** Turning raw data into actionable insights.
+- **Data Visualization:** Crafting compelling stories through visual representation.
+
+## 🔍 Current Quest: 
+Diving deep into the world of data science, I'm on a mission to uncover insights and build intelligent systems that make a difference.
+
+## 👨‍💻 Open Source Advocate:
+Passionate about collaboration, I actively contribute to open source projects, believing in the power of community-driven innovation.
+
+## Learning Journey
+In the dynamic world of technology, I am committed to continuous learning, exploring new tools, and staying updated with the latest trends.
+
+## 🌟 Let's Code the Future Together!
+Join me on this exciting journey of innovation and problem-solving. Connect with me, and let's make a meaningful impact through code!
+
+## 🌐 Connect with me:
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagababu-brightgreen?style=flat&logo=linkedin)](https://www.linkedin.com/in/nagababu-kona/)
+- [![Twitter](https://img.shields.io/twitter/follow/Nagababu?style=social)](https://twitter.com/nagababu_98?t=kfh6ka1jkO5E0Lu5LCGuuQ&s=09)
+
+
